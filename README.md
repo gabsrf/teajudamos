@@ -14,11 +14,10 @@ Site a fim de auxiliar professores a lecionar alunos com o transtorno do espectr
 5. Execute o projeto:
    [exemplo] npm start
 
-## 🛠 Tecnologias utilizadas
-- Linguagem/framework
-- Bibliotecas ou ferramentas extras
+## Tecnologias utilizadas
+Ainda a serem decididos.
 
-## 👨‍💻 Autores
+## Autores
 - Gabriel Serafim
 - gabrielserafimn@gmail.com
 
